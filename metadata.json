@@ -1,0 +1,6 @@
+{
+  "name": "Djezzy Field Ops",
+  "description": "Djezzy Telecom field maintenance system with multi-factor authentication, secure password recovery, task dispatching & acceptance, real-time technician status tracking, geographic map visualization, and high-reasoning AI field diagnostics in signature Djezzy red theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

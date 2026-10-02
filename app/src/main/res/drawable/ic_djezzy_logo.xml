@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="220dp"
+    android:viewportWidth="200"
+    android:viewportHeight="220">
+    <!-- Djezzy Iconic Red Rounded Triangular Emblem -->
+    <path
+        android:fillColor="#E2001A"
+        android:pathData="M16,10 C8,10 2,16 2,26 L2,194 C2,204 8,210 16,210 C20,210 24,208 28,205 L186,121 C196,116 200,108 196,100 C194,96 190,93 186,91 L28,7 C24,4 20,2 16,2 Z" />
+    <!-- "D" in DJEZZY -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,96 L28,96 C34,96 38,100 38,107 C38,114 34,118 28,118 L18,118 Z M24,101 L24,113 L27,113 C30,113 32,111 32,107 C32,103 30,101 27,101 Z" />
+    <!-- "J" in DJEZZY -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,96 L47,96 L47,112 C47,116 45,118 41,118 C38,118 36,116 36,113 L41,113 C41,114 42,114 42,112 Z" />
+    <!-- "E" in DJEZZY -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51,96 L65,96 L65,101 L56,101 L56,105 L63,105 L63,109 L56,109 L56,113 L65,113 L65,118 L51,118 Z" />
+    <!-- First "Z" in DJEZZY -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M69,96 L82,96 L82,100 L74,113 L82,113 L82,118 L69,118 L69,114 L77,101 L69,101 Z" />
+    <!-- Second "Z" in DJEZZY -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M86,96 L99,96 L99,100 L91,113 L99,113 L99,118 L86,118 L86,114 L94,101 L86,101 Z" />
+    <!-- "Y" in DJEZZY -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M103,96 L108,96 L112,105 L116,96 L121,96 L115,108 L115,118 L110,118 L110,108 Z" />
+    <!-- Arabic script: جازي (Jazy) -->
+    <!-- "ج" and "ا" -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,136 L54,156 L47,156 L47,143 C42,143 38,146 36,150 L31,146 C35,140 41,136 49,136 Z M33,158 C35,158 36,159 36,161 C36,163 35,164 33,164 C31,164 30,163 30,161 C30,159 31,158 33,158 Z" />
+    <!-- "ز" with dot -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,140 L65,140 C65,147 62,154 56,158 L52,154 C56,151 59,146 60,140 Z M63,134 C64.5,134 65.5,135 65.5,136.5 C65.5,138 64.5,139 63,139 C61.5,139 60.5,138 60.5,136.5 C60.5,135 61.5,134 63,134 Z" />
+    <!-- "ي" with two dots -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M84,137 L84,142 C79,142 75,144 73,148 C77,148 80,151 80,155 C80,160 76,164 70,164 C64,164 60,159 60,153 C60,144 67,137 77,137 Z M67,169 C68.5,169 69.5,170 69.5,171.5 C69.5,173 68.5,174 67,174 C65.5,174 64.5,173 64.5,171.5 C64.5,170 65.5,169 67,169 Z M74,169 C75.5,169 76.5,170 76.5,171.5 C76.5,173 75.5,174 74,174 C72.5,174 71.5,173 71.5,171.5 C71.5,170 72.5,169 74,169 Z" />
+</vector>

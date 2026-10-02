@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Djezzy Field Ops</string>
+    <string name="tagline">Djezzy Field Maintenance &amp; Network Operations</string>
+    <string name="login_title">Djezzy Security Portal</string>
+    <string name="mfa_verification_title">Two-Factor Authentication</string>
+    <string name="password_recovery_title">Secure Account Recovery</string>
+    <string name="tasks_title">BTS &amp; Network Queue</string>
+    <string name="map_title">Geographic Site Map</string>
+    <string name="technicians_title">Field Fleet</string>
+    <string name="ai_diagnostics_title">Djezzy AI Diagnostics</string>
+</resources>
